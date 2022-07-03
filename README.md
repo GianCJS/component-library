@@ -24,4 +24,5 @@ class Example extends Component {
     )
   }
 }
+
 ```
